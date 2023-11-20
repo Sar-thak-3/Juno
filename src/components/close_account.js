@@ -88,7 +88,7 @@ function CloseAccount(props) {
             </div>
           </div>
 
-          <div>
+          <div className="formbold-form-note">
             <label htmlFor="message" className="formbold-form-label">
               {" "}
               Note{" "}
